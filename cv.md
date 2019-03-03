@@ -70,10 +70,12 @@ t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;f
 [JavaScript calculator](https://codepen.io/giana/pen/GJMBEv)  
 [SPA](https://meduza.io/)  
 ## Education
-# Higher education  
-Belarusian State University of Informatics and Radioelectronics, Minsk,Faculty of information technologies and control, Control Systems. Year of ending - 2021. Average score - 6.9.  
-# Courses:  
-* **https://it-incubator.by**(May 2018 - August 2018)     
+###### Higher education  
+Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies and control, Control Systems, Minsk   
+Year of ending - 2021. 
+Average score - 6.9.  
+###### Courses: 
+* **It-incubator**(May 2018 - August 2018)     
 * **Streamline**(November 2018 - January 2019)   
 * **Itransition**(November 2018 - January 2019)  
 ## Languages  
