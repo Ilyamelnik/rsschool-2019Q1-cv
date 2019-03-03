@@ -78,6 +78,6 @@ Average score - 6.9.
 * **It-incubator**(May 2018 - August 2018);     
 * **Streamline**(November 2018 - January 2019);   
 * **Itransition**(November 2018 - January 2019);  
-### Languages  
+## Languages  
 English — A2 — Elementary.  
 German — B2 — Pre-intermediate.  
