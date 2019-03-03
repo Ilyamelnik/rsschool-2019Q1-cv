@@ -1,5 +1,5 @@
 ###### Resume
-### Melnik Ilya  
+# Melnik Ilya  
 ## My contacts  
 **+375(29)835-35-03** - preferred means of communication  
   iliamelnik@outlook.com - my outlook   
@@ -65,19 +65,19 @@ else :
 t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;for(;l>0;l--)for(k=0;k<=m-l;k++){u=s.substr(k,l);if(t.every(e=>~e.indexOf(u))){l=0;break}u=''}console.log(u)
 ```
 ## Experience
-**My projects**  
+### My projects  
 [Slider](http://wowslider.com/slider-js-utter-blinds-demo.html)  
 [JavaScript calculator](https://codepen.io/giana/pen/GJMBEv)  
 [SPA](https://meduza.io/)  
 ## Education
 ###### Higher education  
-Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies and control, Control Systems, Minsk   
-Year of ending - 2021. 
-Average score - 6.9.  
+**Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies and control, Control Systems, Minsk**       
+Year of ending - 2021.  
+Average score - 6.9.
 ###### Courses: 
 * **It-incubator**(May 2018 - August 2018)     
 * **Streamline**(November 2018 - January 2019)   
 * **Itransition**(November 2018 - January 2019)  
-## Languages  
+### Languages  
 English — A2 — Elementary.  
 German — B2 — Pre-intermediate.  
