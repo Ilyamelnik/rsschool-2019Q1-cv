@@ -1,19 +1,19 @@
 #### Resume
-1.Melnik Ilya  
-2.**+375(29)835-35-03** - preferred means of communication  
-  iliamelnik@outlook.com
-  [Facebook](https://www.facebook.com/profile.php?id=100006719685274)
-  [Linkedin](https://www.linkedin.com/in/ilya-melnik/)
-  Skype - live:iliamelnik
-3.Start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.
-4.Skills and Technology :
+Melnik Ilya  
+**+375(29)835-35-03** - preferred means of communication  
+  iliamelnik@outlook.com  
+  [Facebook](https://www.facebook.com/profile.php?id=100006719685274)  
+  [Linkedin](https://www.linkedin.com/in/ilya-melnik/)  
+  Skype - live:iliamelnik  
+3.Start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.  
+4.Skills and Technology :  
 * native JS;
 * functional programming and OOP, SOLID;
 * BEM,Bootstrap, Adaptive layout, LESS, SASS;
 * basics Node.js, React.js;
 * GIT;
-* MySQL, MondoDB;
-5.These are my mini-tasks from courses in Itransition
+* MySQL, MondoDB;  
+5.These are my mini-tasks from courses in Itransition  
 Phyton Game "rpck-paper-scissors":
 ```
 import random
@@ -67,6 +67,6 @@ t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;f
 
 
 
-7.Higher education - Belarusian State University of Informatics and Radioelectronics, Minsk,Faculty of information technologies and control, Control Systems. Year of ending - 2021. Average score - 6.9
-  Courses - https://it-incubator.by(May 2018 - August 2018), Streamline(November 2018 - January 2019), Itransition(November 2018 - January 2019)
-8.English — A2 — Elementary.
+Higher education - Belarusian State University of Informatics and Radioelectronics, Minsk,Faculty of information technologies and control, Control Systems. Year of ending - 2021. Average score - 6.9  
+  Courses - https://it-incubator.by(May 2018 - August 2018), Streamline(November 2018 - January 2019), Itransition(November 2018 - January 2019)  
+English — A2 — Elementary.
