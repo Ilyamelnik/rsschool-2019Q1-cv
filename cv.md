@@ -1,11 +1,11 @@
 ###### Resume
 # Melnik Ilya  
 ## My contacts  
-**+375(29)835-35-03** - preferred means of communication  
-  iliamelnik@outlook.com - my outlook   
-  [Facebook](https://www.facebook.com/profile.php?id=100006719685274)  
-  [Linkedin](https://www.linkedin.com/in/ilya-melnik/)  
-  Skype - live:iliamelnik  
+**+375(29)835-35-03** - preferred means of communication;  
+  iliamelnik@outlook.com - my outlook;   
+  [Facebook](https://www.facebook.com/profile.php?id=100006719685274);  
+  [Linkedin](https://www.linkedin.com/in/ilya-melnik/);  
+  Skype - live:iliamelnik.  
 ## About me
 I want to start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.  
 ## Skills and Technology   
@@ -66,18 +66,18 @@ t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;f
 ```
 ## Experience
 ###### My projects  
-[Slider](http://wowslider.com/slider-js-utter-blinds-demo.html)  
-[JavaScript calculator](https://codepen.io/giana/pen/GJMBEv)  
-[SPA](https://meduza.io/)  
+[Slider](http://wowslider.com/slider-js-utter-blinds-demo.html);  
+[JavaScript calculator](https://codepen.io/giana/pen/GJMBEv);  
+[SPA](https://meduza.io/);  
 ## Education
 ###### Higher education  
-**Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies and control, Control Systems, Minsk**       
+**Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies and control, Control Systems, Minsk.**       
 Year of ending - 2021.  
 Average score - 6.9.
 ###### Courses: 
-* **It-incubator**(May 2018 - August 2018)     
-* **Streamline**(November 2018 - January 2019)   
-* **Itransition**(November 2018 - January 2019)  
+* **It-incubator**(May 2018 - August 2018);     
+* **Streamline**(November 2018 - January 2019);   
+* **Itransition**(November 2018 - January 2019);  
 ### Languages  
 English — A2 — Elementary.  
 German — B2 — Pre-intermediate.  
