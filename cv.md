@@ -1,20 +1,22 @@
-#### Resume
-Melnik Ilya  
+###### Resume
+### Melnik Ilya  
+## My contacts  
 **+375(29)835-35-03** - preferred means of communication  
   iliamelnik@outlook.com  
   [Facebook](https://www.facebook.com/profile.php?id=100006719685274)  
   [Linkedin](https://www.linkedin.com/in/ilya-melnik/)  
   Skype - live:iliamelnik  
-3.Start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.  
-4.Skills and Technology :  
+## About me
+Start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.  
+Skills and Technology :  
 * native JS;
 * functional programming and OOP, SOLID;
 * BEM,Bootstrap, Adaptive layout, LESS, SASS;
 * basics Node.js, React.js;
 * GIT;
 * MySQL, MondoDB;  
-5.These are my mini-tasks from courses in Itransition  
-Phyton Game "rpck-paper-scissors":
+These are my mini-tasks from courses in Itransition: 
+* Phyton Game "rpck-paper-scissors":
 ```
 import random
 import math
@@ -55,18 +57,15 @@ if oppChoise == youChoise :
 elif (oppChoise - youChoise) % (len(myArray)) < len(myArray) / 2 :
     print("You have a win")
 else :
-    print("Opponent has a win")
+    print("Opponent has a win")Начните карьеру младшего фронтенд-разработчика в Epam и развивайтесь как специалист
 ```
-JS task "code minimization":
+* JS task "code minimization":
 ```
 t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;for(;l>0;l--)for(k=0;k<=m-l;k++){u=s.substr(k,l);if(t.every(e=>~e.indexOf(u))){l=0;break}u=''}console.log(u)
 ```
-6.
-
-
-
-
-
 Higher education - Belarusian State University of Informatics and Radioelectronics, Minsk,Faculty of information technologies and control, Control Systems. Year of ending - 2021. Average score - 6.9  
-  Courses - https://it-incubator.by(May 2018 - August 2018), Streamline(November 2018 - January 2019), Itransition(November 2018 - January 2019)  
+Courses - 
+* https://it-incubator.by(May 2018 - August 2018)     
+* Streamline(November 2018 - January 2019)   
+Itransition(November 2018 - January 2019)  
 English — A2 — Elementary.
