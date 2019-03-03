@@ -2,7 +2,7 @@
 # Melnik Ilya  
 ## My contacts  
 **+375(29)835-35-03** - preferred means of communication;  
-  iliamelnik@outlook.com - my outlook;   
+  iliamelnik@outlook.com;  
   [Facebook](https://www.facebook.com/profile.php?id=100006719685274);  
   [Linkedin](https://www.linkedin.com/in/ilya-melnik/);  
   Skype - live:iliamelnik.  
