@@ -8,7 +8,7 @@
   Skype - live:iliamelnik.  
 ## About me
 I want to start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.  
-## Skills and Technology   
+## Skills and Technologies    
 * native JS;
 * functional programming and OOP, SOLID;
 * BEM,Bootstrap, Adaptive layout, LESS, SASS;
@@ -17,7 +17,7 @@ I want to start a career Junior front-end developer in Epam and develop as a spe
 * MySQL, MondoDB; 
 ## Code examples  
 These are my mini-tasks from courses in Itransition: 
-* Phyton Game "rpck-paper-scissors":
+* Phyton Game "rock-paper-scissors":
 ```
 import random
 import math
@@ -74,7 +74,7 @@ t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;f
 **Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies and control, Control Systems, Minsk.**       
 Year of ending - 2021.  
 Average score - 6.9.
-###### Courses: 
+###### Courses
 * **It-incubator**(May 2018 - August 2018);     
 * **Streamline**(November 2018 - January 2019);   
 * **Itransition**(November 2018 - January 2019);  
