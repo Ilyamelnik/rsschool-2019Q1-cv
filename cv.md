@@ -1,6 +1,6 @@
 #### Resume
-1.Melnik Ilya
-2.**+375(29)835-35-03** - preferred means of communication
+1.Melnik Ilya  
+2.**+375(29)835-35-03** - preferred means of communication  
   iliamelnik@outlook.com
   [Facebook](https://www.facebook.com/profile.php?id=100006719685274)
   [Linkedin](https://www.linkedin.com/in/ilya-melnik/)
