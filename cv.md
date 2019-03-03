@@ -14,7 +14,7 @@ I want to start a career Junior front-end developer in Epam and develop as a spe
 * BEM,Bootstrap, Adaptive layout, LESS, SASS;
 * basics Node.js, React.js;
 * GIT;
-* MySQL, MondoDB; 
+* MySQL, MondoDB;
 ## Code examples  
 These are my mini-tasks from courses in Itransition: 
 * Phyton Game "rock-paper-scissors":
@@ -77,7 +77,7 @@ Average score - 6.9.
 ###### Courses
 * **It-incubator**(May 2018 - August 2018);     
 * **Streamline**(November 2018 - January 2019);   
-* **Itransition**(November 2018 - January 2019);  
+* **Itransition**(November 2018 - January 2019);
 ## Languages  
 English — A2 — Elementary.  
 German — B2 — Pre-intermediate.  
