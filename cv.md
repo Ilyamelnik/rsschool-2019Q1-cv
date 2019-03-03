@@ -9,7 +9,8 @@
 ## About me
 I want to start a career Junior front-end developer in Epam and develop as a specialist. I strive for the continuous development of both my professional and personal qualities. I am sociable and try to be as involved as possible in the team work on one thing.  
 ## Skills and Technologies    
-* native JS;
+* native JS;  
+* HTML5, CSS3, CSS;
 * functional programming and OOP, SOLID;
 * BEM,Bootstrap, Adaptive layout, LESS, SASS;
 * basics Node.js, React.js;
