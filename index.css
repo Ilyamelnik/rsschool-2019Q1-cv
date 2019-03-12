@@ -1,0 +1,23 @@
+html{
+ width: 1024px;
+ margin: auto;
+}
+#ava{
+    width:140px;
+    height:186px;
+}
+.my-contacts{
+    overflow: hidden;
+    width: 1000%;
+}
+.photo{
+    float: left;
+}
+.content{
+    margin-left: 20px;
+    float: left;
+}
+.link{
+    float: left;
+    margin-left: 5px;
+}
