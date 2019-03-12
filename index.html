@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header>
+        <div>Resume</div>
+        <h1>Melnik Ilya</h1>
+        <hr>
+    </header>
+    <div>
+        <h2>My contacts</h2>
+        <hr>
+        <div class="my-contacts">
+            <div class="photo"><img src="assets/vZbCq8MsqUw.jpg" alt="avatar" id="ava"></div>
+            <div class="content">
+                <p><b>+375(29)835-35-03</b>-preferred means of communication;</p>
+                <p>iliamelnik@outlook.com</p>
+                <span сlass="link"><a href="https://www.facebook.com/profile.php?id=100006719685274"><img
+                            src="assets/Facebook@1X.png"></a></span>
+                <span сlass="link"><a href="https://www.linkedin.com/in/ilya-melnik/"><img
+                            src="assets/Linkedin@1X.png"></a></span>
+                <span сlass="link"><a href="https://join.skype.com/invite/kANU61sTthGX"><img
+                            src="assets/imgonline-com-ua-Resize-X9L09YXICTv.jpg"></a></span>
+            </div>
+        </div>
+        <div>
+            <h2>About me</h2>
+            <hr>
+            <p>I want to start a career Junior front-end developer in Epam and develop as a specialist. I strive for the
+                continuous development of both my professional and personal qualities. I am sociable and try to be as
+                involved as possible in the team work on one thing.
+            </p>
+        </div>
+        <div>
+            <h2>Skills and Technologies</h2>
+            <hr>
+            <ul>
+                <li>native JS;</li>
+                <li>native JS;</li>
+                <li>functional programming and OOP, SOLID;</li>
+                <li>BEM,Bootstrap, Adaptive layout, LESS, SASS;</li>
+                <li>basics Node.js, React.js;</li>
+                <li>GIT;</li>
+                <li>MySQL, MongoDB</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Code examples</h2>
+            <hr>
+            <p>These are my mini tasks from courses in itranstition</p>
+            <ul>
+                <li>Phyton Game “rock-paper-scissors”:</li>
+            </ul>
+            <code>
+            import random <br>
+            import math   <br>
+            from array import array <br>
+            import hashlib <br>
+            import hmac  <br>
+            import sys  <br>
+            import secrets  <br>
+            myArray =[]  <br>
+            if __name__ == "__main__": <br>
+                if(len(sys.argv)) > 3 and len(sys.argv) % 2==0:<br>
+                    for param in sys.argv:<br>
+                        myArray.append(param)<br>
+                    del myArray[0]<br>
+                else : exit()<br>
+            oppChoise = random.randint(1, len(myArray))<br>
+            
+            while True: <br>
+                for j in range(len(myArray)) : <br>
+                    print(j + 1, ") ", myArray[j]) <br>
+                print("0) Exit") <br>
+                key = secrets.token_bytes(64) <br>
+                myHmac = hmac.new(key, bytearray(myArray[oppChoise-1], 'utf-8'), hashlib.sha256) <br>
+                print(myHmac.hexdigest()) <br>
+                youChoise = int(input("Select number: ")) <br>
+                if youChoise <= len(myArray) and youChoise >= 0 :<br>
+                    break<br>
+                print("Сhoose the correct option")<br>
+            
+            
+            if youChoise == 0 : <br>
+                exit()   <br>
+            
+            
+            print("Your choice = ", myArray[youChoise-1], ".\n Opponents  choice= ", myArray[oppChoise-1], ".\n", "Secret key:", key.hex())<br>
+            if oppChoise == youChoise :<br>
+                print("Draw")<br>
+            elif (oppChoise - youChoise) % (len(myArray)) < len(myArray) / 2 :<br>
+                print("You have a win")<br>
+            else :<br>
+                print("Opponent has a win")<br>
+       </code>
+            <ul>
+                <li>JS task "code minimization":</li>
+            </ul>
+            <code>
+            t=process.argv.slice(2),s=t.reduce((a,b)=>a.length<=b.length?a:b),l=m=s.length;for(;l>0;l–)for(k=0;k<=m-l;k++){u=s.substr(k,l);if(t.every(e=>~e.indexOf(u))){l=0;break}u=’‘}console.log(u) 
+       </code>
+        </div>
+        <div>
+            <h2>Experience</h2>
+            <hr>
+            <h5>My projects</h5>
+            <a href="http://wowslider.com/slider-js-utter-blinds-demo.html">Slider</a><br>
+            <a href="https://codepen.io/giana/pen/GJMBEv">JavaScript calculator</a><br>
+            <a href="https://meduza.io/">SPA</a><br>
+            <h2>Education</h2>
+            <hr>
+            <h5>Higher Education</h5>
+            <p><b>Belarusian State University of Informatics and Radioelectronics, Faculty of information technologies
+                    and control, Control Systems, Minsk.</b></p>
+            <p>Year of ending - 2021.</p>
+            <p>Average score - 6.9.</p>
+            <h5>Courses</h5>
+            <ul>
+                <li>It-incubator(May 2018 - August 2018);</li>
+                <li>Streamline(November 2018 - January 2019);</li>
+                <li>Itransition(November 2018 - January 2019);</li>
+            </ul>
+            <h2>Languages</h2>
+            <hr>
+            <p>English — A2 — Elementary.</p>
+            <p>German — B2 — Pre-intermediate.</p>
+        </div>
+</body>
